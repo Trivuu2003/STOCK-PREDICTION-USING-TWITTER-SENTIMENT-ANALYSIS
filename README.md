@@ -1,2 +1,2 @@
 # STOCK-PREDICTION-USING-TWITTER-SENTIMENT-ANALYSIS
-Our project is structured into nine stages: collecting stock data, scraping Twitter data, preprocessing tweets, and performing sentiment analysis.
+Our project is structured into nine stages: collecting stock data, scraping Twitter data, preprocessing tweets, and performing sentiment analysis —ARIMA as a baseline and a deep learning model using 1D-CNN and BiCudaLSTM layers. The models are compared to evaluate the strengths of the proposed deep learning method over ARIMA. Finally, the deep learning approach is tested on real-time data to assess its accuracy and adaptability.
